@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(208, 223, 233);
+
+
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 0.9;
+    color: rgb(89, 90, 91);
+}
+.card{
+   width: 20rem;
+   height: 31rem;
+   margin:5% auto;
+   background-color: white;
+   border-radius: 5%;
+
+}
+.card-box{
+    width: 87.5%;
+    height: 57.94%;
+    margin: auto;
+    padding-top: 10%;
+    
+}
+.img{
+    width: 100%;
+    border-radius: 5%;
+}
+.info{
+    width: 66%;
+    margin: auto;
+    margin-bottom: 4%;
+    margin-top: 6%;
+}
+.info2{
+    width: 82%;
+    margin: auto;
+}
