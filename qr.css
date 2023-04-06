@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(208, 223, 233);
+    
+}
+h3{
+    text-align: center;
+    font-size: 1.3rem;
+}
+p{
+    text-align: center;
+    font-size: 1rem;
+    color: rgb(89, 90, 91);
+}
+.card{
+   max-width: 20rem;
+   min-height: 31rem;
+   margin: auto;
+   background-color: white;
+   border-radius: 5%;
+
+}
+.card-box{
+    width: 86.5%;
+    height:120.94%;
+    margin: auto;
+    padding-top: 8%;
+    
+}
+.img{
+    width: 100%;
+    border-radius: 5%;
+}
+.info{
+    max-width: 11.5rem;
+    margin: auto;
+    margin-bottom: 4%;
+    margin-top: 6%;
+    
+
+}
+.info2{
+    max-width: 13rem;
+    margin: auto;
+}
