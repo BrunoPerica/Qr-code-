@@ -4,7 +4,7 @@
 }
 body{
     background-color: rgb(208, 223, 233);
-    font-size: 16;
+    font-size: 16px;
 }
 h3{
     text-align: center;
@@ -32,7 +32,7 @@ p{
     
 }
 .img{
-    width: 100%;
+    width: 18rem;
     border-radius: 5%;
 }
 .info{
