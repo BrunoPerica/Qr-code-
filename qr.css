@@ -18,7 +18,7 @@ p{
 .card{
    width: 20rem;
    height: 31rem;
-   margin:5% auto;
+   margin:5% auto 5%;
    background-color: white;
    border-radius: 5%;
 
