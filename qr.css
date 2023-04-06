@@ -16,7 +16,7 @@ p{
     color: rgb(89, 90, 91);
 }
 .card{
-   max-width: 23rem;
+   max-width: 21rem;
    min-height: 32.5rem;
    margin: auto;
    background-color: white;
@@ -36,7 +36,7 @@ p{
     border-radius: 5%;
 }
 .info{
-    max-width: 15rem;
+    max-width: 250px;
     margin: auto;
     margin-bottom: 4%;
     margin-top: 6%;
@@ -44,6 +44,6 @@ p{
 
 }
 .info2{
-    max-width: 17rem;
+    max-width: 250px;
     margin: auto;
 }
