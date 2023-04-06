@@ -4,7 +4,7 @@
 }
 body{
     background-color: rgb(208, 223, 233);
-    
+    font-size: 16;
 }
 h3{
     text-align: center;
@@ -16,7 +16,7 @@ p{
     color: rgb(89, 90, 91);
 }
 .card{
-   max-width: 20rem;
+   max-width: 23rem;
    min-height: 32.5rem;
    margin: auto;
    background-color: white;
@@ -25,8 +25,8 @@ p{
 
 }
 .card-box{
-    width: 86.5%;
-    height:120.94%;
+    max-width: 18rem;
+    max-height:18rem;
     margin: auto;
     padding-top: 8%;
     
